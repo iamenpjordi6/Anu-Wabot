@@ -1,7 +1,7 @@
 {
- "name": "Zbin-Wabot",
+ "name": "MilfBOT",
  "version": "1.0.0",
- "description": "Bot Wea Mudah Digunakan",
+ "description": "Bot running on nodejs baileys api",
  "main": "main.js",
  "directories": {
   "lib": "lib",
